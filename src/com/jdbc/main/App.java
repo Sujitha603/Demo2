@@ -59,8 +59,8 @@ public class App {
 
                         ownerList.forEach(System.out::println);
                         break;
-                    case 7:
-                        break;
+                    
+        
 
 
                 }
